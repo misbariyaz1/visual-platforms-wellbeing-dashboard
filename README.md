@@ -22,7 +22,8 @@ Then open http://127.0.0.1:8050 in your browser.
 
 ## Files
 - `dashboard.py`: the Dash app
-- `instagram_clean.csv`: cleaned Instagram user data
+- `instagram_clean.csv`: cleaned Instagram user data (1,000 users)
+- `MainDataset- Instagram.xlsx`, `TestDataset-Instagram.xlsx`: original anonymised Instagram datasets (1,000 and 100 users)
 - `anxiety_gender_dashboard.csv`, `anxiety_age_dashboard.csv`: survey indicators by gender and age group
 
 ## Author
